@@ -1,2 +1,2 @@
-# Car-Price-Predction-
-To predict the price of the cars using linear regression
+# Car-Price-Prediction-
+By using  linear regression techniques car price will be predicted
